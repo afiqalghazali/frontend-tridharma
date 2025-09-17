@@ -4,8 +4,8 @@
 
 A modern, responsive web project showcasing the principles of Tri Dharma University with interactive UI and smooth design.
 
-
 🔗 Live Demo: https://afiqalghazali.github.io/frontend-tridharma/
+
 ## ⚒️ Usage
 
 1. Clone this repository:
