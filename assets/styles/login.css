@@ -16,14 +16,3 @@ body {
 	backdrop-filter: blur(15px);
 	border: 1px solid rgba(255, 255, 255, 0.275);
 }
-
-.logo {
-	width: 100px;
-}
-
-/* Media Queries */
-@media (max-width: 768px) {
-	.logo {
-		width: 60px;
-	}
-}
