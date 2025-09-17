@@ -1,6 +1,9 @@
 # Frontend Tri Dharma
 
+![App Thumbnail](https://github.com/user-attachments/assets/b36fe687-2d00-4e30-8900-c5beaa30cfbf)
+
 A modern, responsive web project showcasing the principles of Tri Dharma University with interactive UI and smooth design.
+
 
 🔗 Live Demo: https://afiqalghazali.github.io/frontend-tridharma/
 ## ⚒️ Usage
